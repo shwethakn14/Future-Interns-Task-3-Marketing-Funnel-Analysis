@@ -71,7 +71,7 @@ Recommendations
 
 Dashboard Screenshot
 
-![Marketing Funnel Dashboard](YOUR-EXACT-FILENAME.png)
+![Marketing Funnel Dashboard](./Screenshot%202026-10-09%20195651.png)
 
 Project Deliverables
 
